@@ -7568,9 +7568,9 @@ a:hover {
 }
 /* line 69, ../sass/style.scss */
 .b-header .b-mail, .b-footer .b-mail {
-  font-size: 20px;
+  font-size: 18px;
   background: url("../images/mail_ico.png") no-repeat 0 4px;
-  padding-left: 47px;
+  padding-left: 33px;
   display: inline-block;
   margin-top: 38px;
   margin-left: -45px;
@@ -7584,7 +7584,7 @@ a:hover {
   .b-header .b-tel, .b-footer .b-tel {
     font-size: 34px;
     background-position: 0 9px;
-    margin-left: -26px;
+    margin-left: -76px;
   }
   /* line 87, ../sass/style.scss */
   .b-header .b-mail, .b-footer .b-mail {
@@ -7806,9 +7806,9 @@ a:hover {
 .b-button1 {
   display: inline-block;
   font-size: 12px;
-  color: #fff !important;
+  color: #fff;
   text-transform: uppercase;
-  text-decoration: none !important;
+  text-decoration: none;
   background: url("../images/arrow_button.png") no-repeat 88% 9px;
   background-color: #46619c;
   border: 2px solid transparent;
@@ -7816,10 +7816,9 @@ a:hover {
   height: 28px;
   line-height: 26px;
   padding-left: 13px;
-  outline: none !important;
   padding-right: 35px;
 }
-/* line 288, ../sass/style.scss */
+/* line 287, ../sass/style.scss */
 .b-button1:hover {
   background-color: #e9a544;
   border-color: #f9f9f9;
@@ -7827,11 +7826,11 @@ a:hover {
 }
 
 /* MAIN TEXT */
-/* line 295, ../sass/style.scss */
+/* line 294, ../sass/style.scss */
 .b-main-text {
   margin-top: 20px;
 }
-/* line 298, ../sass/style.scss */
+/* line 297, ../sass/style.scss */
 .b-main-text h1, .b-main-text h2 {
   font-size: 18px;
   margin: 0;
@@ -7839,69 +7838,69 @@ a:hover {
   text-transform: uppercase;
   margin-bottom: 25px;
 }
-/* line 305, ../sass/style.scss */
+/* line 304, ../sass/style.scss */
 .b-main-text .pull-left {
   margin-right: 19px;
   margin-bottom: 19px;
 }
-/* line 309, ../sass/style.scss */
+/* line 308, ../sass/style.scss */
 .b-main-text .pull-right {
   margin-left: 19px;
   margin-bottom: 19px;
 }
-/* line 313, ../sass/style.scss */
+/* line 312, ../sass/style.scss */
 .b-main-text p {
   line-height: 21px;
 }
 
 /* FOOTER */
-/* line 318, ../sass/style.scss */
+/* line 317, ../sass/style.scss */
 .b-footer {
   margin-top: 20px;
   height: 100px;
   margin-bottom: 0;
 }
-/* line 324, ../sass/style.scss */
+/* line 323, ../sass/style.scss */
 .b-footer .container {
   border-top: 1px solid #cccccc;
 }
-/* line 327, ../sass/style.scss */
+/* line 326, ../sass/style.scss */
 .b-footer .b-coperate {
   margin-top: 41px;
 }
-/* line 330, ../sass/style.scss */
+/* line 329, ../sass/style.scss */
 .b-footer .b-tel {
   font-size: 28px;
   margin-left: 39px;
 }
-/* line 333, ../sass/style.scss */
+/* line 332, ../sass/style.scss */
 .b-footer .b-tel span {
   font-size: 22px;
 }
-/* line 337, ../sass/style.scss */
+/* line 336, ../sass/style.scss */
 .b-footer .b-mail {
   margin-top: 40px;
   font-size: 18px;
-  margin-left: -32px;
+  margin-left: -49px;
 }
 @media (max-width: 992px) {
-  /* line 343, ../sass/style.scss */
+  /* line 342, ../sass/style.scss */
   .b-footer .b-coperate {
     margin-top: 15px;
   }
-  /* line 346, ../sass/style.scss */
+  /* line 345, ../sass/style.scss */
   .b-footer .b-tel {
     float: none;
     margin-top: 12px;
     margin-left: 0;
   }
-  /* line 351, ../sass/style.scss */
+  /* line 350, ../sass/style.scss */
   .b-footer .b-mail {
     float: none;
     margin-left: 0;
     margin-top: 18px;
   }
-  /* line 356, ../sass/style.scss */
+  /* line 355, ../sass/style.scss */
   .b-footer {
     text-align: center;
     padding-bottom: 20px;
@@ -7910,21 +7909,21 @@ a:hover {
 }
 
 /* PRODUCT FULL */
-/* line 365, ../sass/style.scss */
+/* line 364, ../sass/style.scss */
 .b-product-full {
   margin-top: 19px;
   margin-bottom: 36px;
 }
-/* line 369, ../sass/style.scss */
+/* line 368, ../sass/style.scss */
 .b-product-full .b-main-card-img {
   border: 1px solid #e4e4e4;
   background: #fff;
 }
-/* line 372, ../sass/style.scss */
+/* line 371, ../sass/style.scss */
 .b-product-full .b-main-card-img img {
   margin: auto;
 }
-/* line 376, ../sass/style.scss */
+/* line 375, ../sass/style.scss */
 .b-product-full h1 {
   font-size: 18px;
   font-weight: bold;
@@ -7933,59 +7932,59 @@ a:hover {
   margin-top: 18px;
   margin-bottom: 17px;
 }
-/* line 384, ../sass/style.scss */
+/* line 383, ../sass/style.scss */
 .b-product-full p {
   line-height: 21px;
 }
 @media (min-width: 992px) {
-  /* line 389, ../sass/style.scss */
+  /* line 388, ../sass/style.scss */
   .b-product-full .col-md-6 {
     padding-right: 7px;
   }
-  /* line 392, ../sass/style.scss */
+  /* line 391, ../sass/style.scss */
   .b-product-full .b-card-dscr {
     padding-left: 13px;
   }
 }
-/* line 396, ../sass/style.scss */
+/* line 395, ../sass/style.scss */
 .b-product-full table {
   width: 100%;
   margin-top: 23px;
 }
-/* line 399, ../sass/style.scss */
+/* line 398, ../sass/style.scss */
 .b-product-full table thead {
   background: #e8e8e8;
   font-size: 14px;
   text-transform: uppercase;
 }
-/* line 403, ../sass/style.scss */
+/* line 402, ../sass/style.scss */
 .b-product-full table thead td {
   padding: 10px 22px;
 }
-/* line 408, ../sass/style.scss */
+/* line 407, ../sass/style.scss */
 .b-product-full table tbody td {
   border: 1px solid #f7f7f7;
   background: #fff;
   color: #999999;
   padding: 6px 17px;
 }
-/* line 413, ../sass/style.scss */
+/* line 412, ../sass/style.scss */
 .b-product-full table tbody td span {
   color: #333;
 }
 
-/* line 421, ../sass/style.scss */
+/* line 420, ../sass/style.scss */
 .b-select-color {
   margin-top: 69px;
 }
-/* line 423, ../sass/style.scss */
+/* line 422, ../sass/style.scss */
 .b-select-color h2 {
   font-size: 18px;
   color: #333;
   text-transform: uppercase;
   font-weight: bold;
 }
-/* line 429, ../sass/style.scss */
+/* line 428, ../sass/style.scss */
 .b-select-color a {
   text-decoration: none;
   border: 1px solid transparent;
@@ -7994,56 +7993,56 @@ a:hover {
   height: 60px;
   margin-right: 16px;
 }
-/* line 438, ../sass/style.scss */
+/* line 437, ../sass/style.scss */
 .b-select-color a .b-color {
   width: 58px;
   height: 58px;
 }
-/* line 441, ../sass/style.scss */
+/* line 440, ../sass/style.scss */
 .b-select-color a .b-color b {
   border-top: 58px solid transparent;
   border-right: 58px solid transparent;
 }
-/* line 445, ../sass/style.scss */
+/* line 444, ../sass/style.scss */
 .b-select-color a .b-color em {
   border-bottom: 58px solid transparent;
   border-left: 58px solid transparent;
 }
-/* line 450, ../sass/style.scss */
+/* line 449, ../sass/style.scss */
 .b-select-color a:hover {
   border-color: #fdb545;
   -webkit-box-shadow: 0 0 4px 1px #fdb545;
   -moz-box-shadow: 0 0 4px 1px #fdb545;
   box-shadow: 0 0 4px 1px #fdb545;
 }
-/* line 455, ../sass/style.scss */
+/* line 454, ../sass/style.scss */
 .b-select-color .b-colors {
   margin-top: 31px;
 }
 
 /* CONTACTS */
-/* line 461, ../sass/style.scss */
+/* line 460, ../sass/style.scss */
 .b-contacts {
   margin-top: 30px;
   margin-bottom: 31px;
 }
 @media (min-width: 992px) {
-  /* line 466, ../sass/style.scss */
+  /* line 465, ../sass/style.scss */
   .b-contacts .col-md-8 {
     padding-right: 9px;
   }
-  /* line 469, ../sass/style.scss */
+  /* line 468, ../sass/style.scss */
   .b-contacts .b-contacts-dscr {
     padding-left: 12px;
   }
 }
 @media (max-width: 992px) {
-  /* line 474, ../sass/style.scss */
+  /* line 473, ../sass/style.scss */
   .b-contacts .b-contacts-dscr {
     margin-top: 25px;
   }
 }
-/* line 479, ../sass/style.scss */
+/* line 478, ../sass/style.scss */
 .b-contacts h1 {
   font-size: 18px;
   text-transform: uppercase;
@@ -8051,29 +8050,29 @@ a:hover {
   font-weight: bold;
   margin: 0;
 }
-/* line 486, ../sass/style.scss */
+/* line 485, ../sass/style.scss */
 .b-contacts address {
   margin-top: 16px;
 }
-/* line 489, ../sass/style.scss */
+/* line 488, ../sass/style.scss */
 .b-contacts p {
   margin: 0;
   color: #666;
   margin-bottom: 3px;
 }
-/* line 494, ../sass/style.scss */
+/* line 493, ../sass/style.scss */
 .b-contacts .b-tel {
   color: #333;
   background: url("../images/conatct_tel.png") no-repeat 0 1px;
   padding-left: 25px;
 }
-/* line 499, ../sass/style.scss */
+/* line 498, ../sass/style.scss */
 .b-contacts .b-mail {
   background: url("../images/conatct_mail.png") no-repeat 0 4px;
   padding-left: 25px;
 }
 
-/* line 504, ../sass/style.scss */
+/* line 503, ../sass/style.scss */
 .b-map {
   width: 100%;
   height: 427px;

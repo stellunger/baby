@@ -27,7 +27,7 @@
                 		<div class="b-tel"><span>+7 (831)</span> 212-37-59</div>
                 	</div>
                    <div class="col-md-4">
-                    	<div class="b-mail"><a href="#">info@malushok.ru</a></div>
+                    	<div class="b-mail"><a href="mailto:malishok.ekb@mail.ru">malishok.ekb@mail.ru</a></div>
                     </div>
                 </div>
             </div>

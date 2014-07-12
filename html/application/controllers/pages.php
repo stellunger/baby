@@ -5,7 +5,7 @@ class Pages extends CI_Controller {
 	public function index()
 	{
 	
-		$data['page_title'] = 'Главная страница | Малышок.ру';
+		$data['page_title'] = 'Главная страница | Малышок-урал.рф';
 
 		$this->load->view('header', $data);
 		$this->load->view('main-page');
@@ -16,17 +16,28 @@ class Pages extends CI_Controller {
 	{
 		
 		switch ($page_id)
-		{
-			case 'transformer':
-				$data['page_title'] = 'Костюм-транформер';
+		{	
+			case 'main-page':
+				$data['page_title'] = 'Главная страница';
 				break;
-
+			case 'transformer':
+				$data['page_title'] = 'Костюм-транформер для новорожденных';
+				break;
+			case 'boys':
+				$data['page_title'] = 'Детский костюм для мальчиков';
+				break;
+			case 'boys-girls':
+				$data['page_title'] = 'Детский костюм для мальчиков и девочек';
+				break;
+			case 'teens':
+				$data['page_title'] = 'Костюм подростковый';
+				break;
 			case 'contacts':
 				$data['page_title'] = 'Наши контакты';
 				break;
 		}
 
-		$data['page_title'] .= ' | Малышок.ру';
+		$data['page_title'] .= ' | Малышок-урал.рф';
 
 		$this->load->view('header', $data);
 		$this->load->view($page_id);
