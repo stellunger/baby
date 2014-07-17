@@ -8,10 +8,11 @@
                 	<div class="b-contacts-dscr">
                 		<h1>Конtакты</h1>
                 		<address>
-                        	<p>г.Москва</p>
-                            <p>ул. Киевская, д.51, оф.32</p>
-                            <p class="b-tel">+7(831) 212 - 37 - 59</p>
-                            <p class="b-mail"><a href="#">info@malushok.ru</a></p>
+                        	<p>г.Екатеринбург</p>
+                            <p>Таганский ряд</p>
+                            <p class="b-tel">+7-912-62-00751 - Наталья Анатольевна</p>
+                            <p class="b-tel">+7-950-20-85245 - Татьяна</p>
+                            <p class="b-mail"><a href="#">malishok.ekb@mail.ru</a></p>
                         </address>       		
                 		
                 	</div>

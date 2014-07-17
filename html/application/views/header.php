@@ -40,7 +40,7 @@
                 </div>
                 <div class="col-lg-6 col-md-7">
                 	<div class="col-md-8">
-                		<div class="b-tel"><span>+7 (831)</span> 212-37-59</div>
+                		<div class="b-tel"><span>+7 912 </span> 62-00751</div>
                 	</div>
                    <div class="col-md-4">
                     	<div class="b-mail"><a href="mailto:malishok.ekb@mail.ru">malishok.ekb@mail.ru</a></div>
@@ -64,7 +64,7 @@
                 
                 
             <div class="collapse navbar-collapse" id="main-menu">
-                <a href="#">Главная</a>
+                <a href="main-page">Главная</a>
                 <a href="sale">РАСПРОДАЖА</a>
                 <a href="contacts">КОНТАКТЫ</a>
             </div>

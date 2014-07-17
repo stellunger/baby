@@ -7,21 +7,23 @@
                 <div class="col-md-6">
                 	<div class="b-card-dscr">
                 		<h1>Костюм-трансформер для новорожденных</h1>
-                		<p>Ассортимент товаров на нашем сайте обновляется и пополняется ежедневно, и приоритетом работы Компании, ввиду большого модельного ряда, являются интернет продажи. На каждом фото товара и в описании есть его код , по которому легко найти в будущем нужную Вам модель, прописав его в "Поиск"</p>
+                		<p>Костюм-трансформер для новорожденных</p>
                 		<table>
                 			<thead>
                 		    	<tr>
-                		        	<td colspan="2">Характеристики товара</td>
+                		        	<td colspan="5">Характеристики товара</td>
                 		        </tr>
                 		    </thead>
                 		    <tbody>
                 		    	<tr>
-                		        	<td>Материал:</td>
-                		            <td><span>100% хлопок</span></td>
+                		        	<td>Материалы:</td>
+                		            <td><span>Плащевка</span></td>
+                		            <td><span>Холлофан</span></td>
+                		            <td><span>Х/Б трикотаж</span></td>
                 		        </tr>
                 		        <tr>
-                		        	<td>Размеры:</td>
-                		            <td><span>56, 60, 64</span></td>
+                		        	<td>Возраст:</td>
+                		            <td><span>1,5-2 года</span></td>
                 		     
                 		    </tbody>
                 		</table>
@@ -30,32 +32,48 @@
                 		    <div class="b-colors">
                 		    	<a href="assets/images/DSC00485.png">
                 		        	<span class="b-color">
-                		    		    <b style="border-top-color:#e7bed9;"></b><em  style="border-bottom-color:#46619c;"></em>
+                		    		    <b style="border-top-color:#e7bed9;"></b><em  style="border-bottom-color:#FF0000;"></em>
                 		    		</span>
                 		        </a>
                 		        <a href="assets/images/DSC00487.png">
                 		        	<span class="b-color">
-                		        	    <b style="border-top-color:#acc6c6;"></b><em  style="border-bottom-color:#648862;"></em>
+                		        	    <b style="border-top-color:#e7bed9;"></b><em  style="border-bottom-color:#6345C5;"></em>
                 		        	</span>
                 		        </a>
-                		        <a href="assets/images/img_card2.png">
+                		        <a href="assets/images/DSC00488.png">
                 		        	<span class="b-color">
-                		        	    <b style="border-top-color:#9b8bbb;"></b><em  style="border-bottom-color:#391385;"></em>
+                		        	    <b style="border-top-color:#3A9CD2;"></b><em  style="border-bottom-color:#808080;"></em>
                 		        	</span>
                 		        </a>
-                		        <a href="assets/images/img_card3.png">
+                		        <a href="assets/images/DSC00489.png">
                 		        	<span class="b-color">
-                		        	    <b style="border-top-color:#f2c789;"></b><em  style="border-bottom-color:#953c19;"></em>
+                		        	    <b style="border-top-color:#3A9CD2;"></b><em  style="border-bottom-color:#0000FF;"></em>
                 		        	</span>
                 		        </a>
-                                <a href="assets/images/img_card4.png">
+                                <a href="assets/images/DSC00490.png">
                 		        	<span class="b-color">
-                		    		    <b style="border-top-color:#e7bed9;"></b><em  style="border-bottom-color:#46619c;"></em>
+                		    		    <b style="border-top-color:#1C6BC3;"></b><em  style="border-bottom-color:#46619c;"></em>
                 		    		</span>
                 		        </a>
-                		        <a href="assets/images/img_card5.png">
+                		        <br>
+                		        <a href="assets/images/DSC00491.png">
                 		        	<span class="b-color">
-                		        	    <b style="border-top-color:#acc6c6;"></b><em  style="border-bottom-color:#648862;"></em>
+                		        	    <b style="border-top-color:#808080;"></b><em  style="border-bottom-color:#000000;"></em>
+                		        	</span>
+                		        </a>
+                		        <a href="assets/images/DSC00492.png">
+                		        	<span class="b-color">
+                		        	    <b style="border-top-color:#1C6BC3;"></b><em  style="border-bottom-color:#3A9CD2;"></em>
+                		        	</span>
+                		        </a>
+                		        <a href="assets/images/DSC00493.png">
+                		        	<span class="b-color">
+                		        	    <b style="border-top-color:#81C766;"></b><em  style="border-bottom-color:#618553;"></em>
+                		        	</span>
+                		        </a>
+                		        <a href="assets/images/DSC00494.png">
+                		        	<span class="b-color">
+                		        	    <b style="border-top-color:#FF0000;"></b><em  style="border-bottom-color:#D87762;"></em>
                 		        	</span>
                 		        </a>
                 		    </div>
