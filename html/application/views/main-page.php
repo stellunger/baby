@@ -66,6 +66,9 @@
                 	            <span class="b-color">
                 	                <b style="border-top-color:#C5C5C5;"></b><em  style="border-bottom-color:#000000;"></em>
                 	            </span>
+                                <span class="b-color">
+                                    <b style="border-top-color:#cf81ab;"></b><em  style="border-bottom-color:#920e37;"></em>
+                                </span>
                 	         </span></p>
                 	        <p><span class="b-title">Размеры:</span><span class="b-data">20-22-24</span></p>
                 	    </div>
@@ -85,6 +88,9 @@
                 	            </span>
                                 <span class="b-color">
                                     <b style="border-top-color:#b48abc;"></b><em  style="border-bottom-color:#8b4972;"></em>
+                                </span>
+                                <span class="b-color">
+                                    <b style="border-top-color:#49a6ec;"></b><em  style="border-bottom-color:#1c4c9a;"></em>
                                 </span>
                 	         </span></p>
                 	        <p><span class="b-title">Размеры:</span><span class="b-data">26-28-30-32</span></p>

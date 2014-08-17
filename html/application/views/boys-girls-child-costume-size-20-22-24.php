@@ -62,6 +62,11 @@
                 		        	    <b style="border-top-color:#C5C5C5;"></b><em  style="border-bottom-color:#000000;"></em>
                 		        	</span>
                 		        </a>
+                                <a href="/assets/images/DSC00613.png">
+                                    <span class="b-color">
+                                        <b style="border-top-color:#cf81ab;"></b><em  style="border-bottom-color:#920e37;"></em>
+                                    </span>
+                                </a>
                 		    </div>
                 		</div>
                 	</div>
