@@ -17,9 +17,9 @@
   var map;
   function initialize() {
     var mapOptions = {
-    zoom: 8,
+    zoom: 16,
     scrollwheel: false,
-    center: new google.maps.LatLng(-34.397, 150.644)
+    center: new google.maps.LatLng(56.862863, 60.541184)
     };
     map = new google.maps.Map(document.getElementById('map-canvas'),
       mapOptions);
@@ -40,7 +40,7 @@
                 </div>
                 <div class="col-lg-6 col-md-7">
                 	<div class="col-md-8">
-                		<div class="b-tel"><span>+7 912 </span> 62-00751</div>
+                		<div class="b-tel"><span>+7 912 </span>62-00751</div>
                 	</div>
                    <div class="col-md-4">
                     	<div class="b-mail"><a href="mailto:malishok.ekb@mail.ru">malishok.ekb@mail.ru</a></div>

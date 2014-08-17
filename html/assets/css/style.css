@@ -7589,7 +7589,7 @@ a:hover {
   /* line 87, ../sass/style.scss */
   .b-header .b-mail, .b-footer .b-mail {
     margin-top: 42px;
-    margin-left: -49px;
+    margin-left: -86px;
   }
 }
 @media (max-width: 992px) {
@@ -7757,6 +7757,7 @@ a:hover {
 .b-product .b-details p {
   margin: 0;
   margin-bottom: 6px;
+
 }
 /* line 232, ../sass/style.scss */
 .b-product .b-details .b-title {
@@ -7771,6 +7772,7 @@ a:hover {
   display: inline-block;
   color: #333333;
   text-align: left;
+  vertical-align: top;
   width: 42%;
 }
 
@@ -7779,6 +7781,7 @@ a:hover {
   position: relative;
   width: 15px;
   height: 15px;
+
   display: inline-block;
 }
 /* line 253, ../sass/style.scss */
@@ -7882,7 +7885,7 @@ a:hover {
 .b-footer .b-mail {
   margin-top: 40px;
   font-size: 18px;
-  margin-left: -32px;
+  margin-left: -62px;
 }
 @media (max-width: 992px) {
   /* line 343, ../sass/style.scss */

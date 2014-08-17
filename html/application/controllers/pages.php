@@ -20,17 +20,38 @@ class Pages extends CI_Controller {
 			case 'main-page':
 				$data['page_title'] = 'Главная страница';
 				break;
-			case 'transformer':
+			case 'transformer-costume-newborn':
 				$data['page_title'] = 'Костюм-транформер для новорожденных';
 				break;
-			case 'boys':
-				$data['page_title'] = 'Детский костюм для мальчиков';
+			case 'boys-girls-child-costume-size-26-28-30-32':
+				$data['page_title'] = 'Детский костюм для мальчиков и девочек размеры 26-28-30-32';
 				break;
-			case 'boys-girls':
-				$data['page_title'] = 'Детский костюм для мальчиков и девочек';
+			case 'boys-girls-child-costume-size-20-22-24':
+				$data['page_title'] = 'Детский костюм для мальчиков и девочек размеры 20-22-24';
 				break;
-			case 'teens':
-				$data['page_title'] = 'Костюм подростковый';
+			case 'boys-girls-teen-costume-size-32-34-36':
+				$data['page_title'] = 'Подростковый костюм для мальчиков и девочек размеры 32-34-36';
+				break;
+			case 'girls-teen-coat-size-32-34-36':
+				$data['page_title'] = 'Подростковый плащ для девочек размеры 32-34-36';
+				break;
+			case 'boys-teen-jacket-size-32-34-36':
+				$data['page_title'] = 'Подростковая куртка для мальчиков размеры 32-34-36';
+				break;
+			case 'sale-girls-child-costume-size-22-24':
+				$data['page_title'] = 'Распродажа: Детский костюм для девочек размеры 22-24';
+				break;
+			case 'sale-girls-child-costume-size-26-28-30':
+				$data['page_title'] = 'Распродажа: Детский костюм для девочек размеры 26-28-30';
+				break;
+			case 'sale-boys-child-costume-size-22-24-26':
+				$data['page_title'] = 'Распродажа: Детский костюм для мальчиков размеры 26-28-30';
+				break;
+			case 'sale-boys-child-costume-size-24-26-28-30':
+				$data['page_title'] = 'Распродажа: Детский костюм для мальчиков размеры 24-26-28-30';
+				break;
+				case 'sale':
+				$data['page_title'] = 'Распродажа';
 				break;
 			case 'contacts':
 				$data['page_title'] = 'Наши контакты';
