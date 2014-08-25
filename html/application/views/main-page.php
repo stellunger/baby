@@ -66,13 +66,20 @@
                 	            <span class="b-color">
                 	                <b style="border-top-color:#C5C5C5;"></b><em  style="border-bottom-color:#000000;"></em>
                 	            </span>
+                                <br>
                                 <span class="b-color">
                                     <b style="border-top-color:#cf81ab;"></b><em  style="border-bottom-color:#920e37;"></em>
+                                </span>
+                                <span class="b-color">
+                                    <b style="border-top-color:#eade75;"></b><em  style="border-bottom-color:#138e93;"></em>
+                                </span>
+                                <span class="b-color">
+                                    <b style="border-top-color:#f1d15b;"></b><em  style="border-bottom-color:#822a42;"></em>
                                 </span>
                 	         </span></p>
                 	        <p><span class="b-title">Размеры:</span><span class="b-data">20-22-24</span></p>
                 	    </div>
-                	    <div class="b-button"><a href="boys-girls-child-costume-size-20-22-24" class="b-button1">Подробнее</a></div>
+                	    <div class="b-button" style="margin-top:11px"><a href="boys-girls-child-costume-size-20-22-24" class="b-button1">Подробнее</a></div>
                 	</div>
                 </div>
                 <div class="col-md-3 col-sm-6">

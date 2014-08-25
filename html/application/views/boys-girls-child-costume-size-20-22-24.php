@@ -35,7 +35,8 @@
                 		    </tbody>
                 		</table>
                 		<div class="b-select-color">
-                			<h2>выберите цвет</h2>
+                			<h2>выберите расцветку</h2>
+                			<h2>мальчики:<h2>
                 		    <div class="b-colors">
                 		    	<a href="/assets/images/DSC00497.png">
                 		        	<span class="b-color">
@@ -62,9 +63,21 @@
                 		        	    <b style="border-top-color:#C5C5C5;"></b><em  style="border-bottom-color:#000000;"></em>
                 		        	</span>
                 		        </a>
+                		        <br>
+                		        <h2>девочки:</h2>
                                 <a href="/assets/images/DSC00613.png">
                                     <span class="b-color">
                                         <b style="border-top-color:#cf81ab;"></b><em  style="border-bottom-color:#920e37;"></em>
+                                    </span>
+                                </a>
+                                <a href="/assets/images/111.png">
+                                    <span class="b-color">
+                                        <b style="border-top-color:#eade75;"></b><em  style="border-bottom-color:#138e93;"></em>
+                                    </span>
+                                </a>
+                                <a href="/assets/images/222.png">
+                                    <span class="b-color">
+                                        <b style="border-top-color:#f1d15b;"></b><em  style="border-bottom-color:#822a42;"></em>
                                     </span>
                                 </a>
                 		    </div>

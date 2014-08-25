@@ -33,7 +33,7 @@
                 		    </tbody>
                 		</table>
                 		<div class="b-select-color">
-                			<h2>выберите цвет</h2>
+                			<h2>выберите расцветку</h2>
                 		    <div class="b-colors">
                 		    	<a href="assets/images/DSC00553.png">
                 		        	<span class="b-color">
