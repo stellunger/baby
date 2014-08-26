@@ -60,7 +60,7 @@
                                 <h2>девочки:</h2>
                                 <a href="assets/images/DSC00552.png">
                                     <span class="b-color">
-                                        <b style="border-top-color:#ed303a;"></b><em  style="border-bottom-color:#000000;"></em>
+                                        <b style="border-top-color:#7466a7;"></b><em  style="border-bottom-color:#000000;"></em>
                                     </span>
                                 </a>
                                 <a href="assets/images/DSC00545.png">
