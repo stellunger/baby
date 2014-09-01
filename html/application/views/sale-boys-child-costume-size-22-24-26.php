@@ -19,7 +19,6 @@
                                     <td><span>Полиэстер</span></td>
                                     <td><span>Холлофан</span></td>
                                     <td><span>Флис</span></td>
-                                    <td><span>Меховая подстежка</span>
                 		        <tr>
                 		        	<td>Размеры:</td>
                 		            <td><span>22/92</span></td>

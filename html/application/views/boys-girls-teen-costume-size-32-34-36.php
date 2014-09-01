@@ -19,8 +19,7 @@
                                     <td><span>Полиэстер</span></td>
                                     <td><span>Холлофан</span></td>
                                     <td><span>Флис</span></td>
-                                    <td><span>Меховая подстежка</span>
-                		        <tr>
+                                <tr>
                 		        	<td>Размеры:</td>
                 		            <td><span>32/128</span></td>
                                     <td><span>34/134</span></td>

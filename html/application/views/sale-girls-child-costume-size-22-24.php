@@ -20,7 +20,6 @@
                 		            <td><span>Полиэстер</span></td>
                                     <td><span>Холлофан</span></td>
                                     <td><span>Флис</span></td>
-                                    <td><span>Меховая подстежка</span>
                 		        </tr>
                 		        <tr>
                 		        	<td>Размеры:</td>

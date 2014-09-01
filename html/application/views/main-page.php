@@ -87,7 +87,7 @@
                 	    <div class="b-img"><a href="boys-girls-child-costume-size-26-28-30-32"><img src="assets/images/small/DSC00501.png"  class="img-responsive" alt=""></a></div>
                 	    <div class="b-name"><a href="boys-girls-child-costume-size-26-28-30-32">Детский костюм для мальчиков и девочек</a></div>
                 	    <div class="b-details">
-                            <p><span class="b-title">Цена-опт:</span><span class="b-data">1600</span>
+                            <p><span class="b-title">Цена-опт:</span><span class="b-data">1700</span>
                 	        <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Синтепон<br>Меховой подклад</span></p>
                 	        <p><span class="b-title">Цвета:</span><span class="b-data">
                 	            <span class="b-color">
@@ -111,7 +111,7 @@
                 	    <div class="b-name"><a href="boys-girls-teen-costume-size-32-34-36">Подростковый костюм для мальчиков и девочек</a></div>
                 	    <div class="b-details">
                             <p><span class="b-title">Цена-опт:</span><span class="b-data">1800</span>
-                	        <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис<br>Меховой подклад</span></p>
+                	        <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис</span></p>
                 	        <p><span class="b-title">Цвета:</span><span class="b-data">
                 	            <span class="b-color">
                 	                <b style="border-top-color:#bbd285;"></b><em  style="border-bottom-color:#000000;"></em>
@@ -139,7 +139,7 @@
                 	         </span></p>
                 	        <p><span class="b-title">Размеры:</span><span class="b-data">32-34-36</span></p>
                 	    </div>
-                	    <div class="b-button" style="margin-top:11px"><a href="boys-girls-teen-costume-size-32-34-36" class="b-button1">Подробнее</a></div>
+                	    <div class="b-button" style="margin-top:27px"><a href="boys-girls-teen-costume-size-32-34-36" class="b-button1">Подробнее</a></div>
                 	</div>
                 </div>
                 
@@ -152,7 +152,7 @@
                         <div class="b-name"><a href="girls-teen-coat-size-32-34-36">Подростковый плащ для девочек</a></div>
                         <div class="b-details">
                             <p><span class="b-title">Цена-опт:</span><span class="b-data">1400</span>
-                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис<br>Меховой подклад</span></p>
+                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис</span></p>
                             <p><span class="b-title">Цвета:</span><span class="b-data">
                                 <span class="b-color">
                                     <b style="border-top-color:#5971b3;"></b><em  style="border-bottom-color:#5971b3;"></em>
@@ -178,7 +178,7 @@
                         <div class="b-name"><a href="boys-teen-jacket-size-32-34-36">Подростковая куртка для мальчиков</a></div>
                         <div class="b-details">
                             <p><span class="b-title">Цена-опт:</span><span class="b-data">1400</span>
-                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис<br>Меховой подклад</span></p>
+                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис</span></p>
                             <p><span class="b-title">Цвета:</span><span class="b-data">
                                 <span class="b-color">
                                     <b style="border-top-color:#0759a7;"></b><em  style="border-bottom-color:#b92b3e;"></em>
@@ -198,7 +198,7 @@
                         <div class="b-name"><a href="sale-girls-child-costume-size-22-24">Распродажа: Детский костюм для девочек</a></div>
                         <div class="b-details">
                             <p><span class="b-title">Цена-опт:</span><span class="b-data">1000</span>
-                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис<br>Меховой подклад</span></p>
+                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис</span></p>
                             <p><span class="b-title">Цвета:</span><span class="b-data">
                                 <span class="b-color">
                                     <b style="border-top-color:#c31225;"></b><em  style="border-bottom-color:#c31225;"></em>
@@ -227,7 +227,7 @@
                         <div class="b-name"><a href="sale-girls-child-costume-size-26-28-30">Распродажа: Детский костюм для девочек</a></div>
                         <div class="b-details">
                             <p><span class="b-title">Цена-опт:</span><span class="b-data">1000</span>
-                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис<br>Меховой подклад</span></p>
+                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис</span></p>
                             <p><span class="b-title">Цвета:</span><span class="b-data">
                                 <span class="b-color">
                                     <b style="border-top-color:#c31225;"></b><em  style="border-bottom-color:#c31225;"></em>
@@ -250,7 +250,7 @@
                         <div class="b-name"><a href="sale-boys-child-costume-size-22-24-26">Распродажа: Детский костюм для мальчиков</a></div>
                         <div class="b-details">
                             <p><span class="b-title">Цена-опт:</span><span class="b-data">1000</span>
-                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис<br>Меховой подклад</span></p>
+                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис</span></p>
                             <p><span class="b-title">Цвета:</span><span class="b-data">
                                 <span class="b-color">
                                     <b style="border-top-color:#288db9;"></b><em  style="border-bottom-color:#242a79;"></em>
@@ -273,7 +273,7 @@
                         <div class="b-name"><a href="sale-boys-child-costume-size-24-26-28-30">Распродажа: Детский костюм для мальчиков</a></div>
                         <div class="b-details">
                             <p><span class="b-title">Цена-опт:</span><span class="b-data">1000</span>
-                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис<br>Меховой подклад</span></p>
+                            <p><span class="b-title">Материалы:</span><span class="b-data">Полиэстер<br>Холлофан<br>Флис</span></p>
                             <p><span class="b-title">Цвета:</span><span class="b-data">
                                 <span class="b-color">
                                     <b style="border-top-color:#b6b6a0;"></b><em  style="border-bottom-color:#75786f;"></em>

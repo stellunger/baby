@@ -29,7 +29,7 @@
                 		        </tr>
                                 <tr>
                                 <td>Цена-опт:</td>
-                                     <td><span>1600 руб.</span></td>
+                                     <td><span>1700 руб.</span></td>
                                 </tr>
                 		    </tbody>
                 		</table>
