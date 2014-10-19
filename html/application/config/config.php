@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://baby.local/';
+$config['base_url']	= 'http://xn----7sbb2bedbsu3a5c9a.xn--p1ai/';
 
 /*
 |--------------------------------------------------------------------------

@@ -2,7 +2,9 @@
     	<div class="container">
         	<div class="row">
             	<div class="col-md-8">
-                	<div class="b-map" id="map-canvas"></div>
+			<div>
+                	<!--<div class="b-map" id="map-canvas">-->
+			<script type="text/javascript" charset="utf-8" src="//api-maps.yandex.ru/services/constructor/1.0/js/?sid=4QKt4QAKCtr-Ssht9bO5JSbzihWN-Uwm&width=775&height=427"></script></div>
                 </div>
                 <div class="col-md-4">
                 	<div class="b-contacts-dscr">
